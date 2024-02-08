@@ -2,20 +2,21 @@
 this is my profile for me only
 mipashya"https://chat.openai.com/"
 
-
-
-<span id="85af93540870"></span>
-<!-- The above is rendered to the below -->
-<span id="user-content-85af93540870"></span>
-
-<!-- So when you do something like the below -->
-
-* [Leading The Way](#85af93540870)
-
-<!-- Filler Code Goes Here -->
-
-## <span id="85af93540870"></span>Dude Where's My Car
-
+</span>Dude Where's My Car
 
 > ### [Anchor Link](#anchor-link)
 > ## Anchor Link
+
+
+
+# Project Title
+
+Description of the project. This project involved creating a website for a client in the fashion industry.
+
+## Tags
+- [Web Design](#)
+- [Fashion](#)
+- [E-Commerce](#)
+
+## Repository Link
+[GitHub Repository](https://github.com/yourusername/project-title)
